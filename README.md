@@ -6,4 +6,6 @@ I am inspired by :
 
 Here is a link to [their wiki page](wikipedia.org)
 
-Here is ![puppy!](https://i.imgur.com/A7GCASZ.jpg "puppy")
+Here is their picture
+
+![puppy!](https://i.imgur.com/A7GCASZ.jpg "puppy")
