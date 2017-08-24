@@ -8,4 +8,6 @@ Here is a link to [their wiki page](wikipedia.org)
 
 Here is their picture
 
+<br />
+
 ![puppy!](https://i.imgur.com/A7GCASZ.jpg "puppy")
